@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wxy</title>
   
-  
+  <subtitle>雨</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>雨</name>
+    <name>项雨</name>
     
   </author>
   
